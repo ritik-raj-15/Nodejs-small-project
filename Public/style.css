@@ -1,0 +1,21 @@
+.bg-grey{
+    background-color: #e2e0e0;
+}
+#submit{
+    border: none;
+    outline: none;
+    height: 20vh;
+    font-size: 30px;
+    color: grey;
+    font-weight: bolder; 
+}
+::placeholder {
+    font-size:1.2em;
+}
+#Entry-border
+{
+    border-bottom:1px solid grey;
+}
+#strike{
+    text-decoration: line-through;
+}
